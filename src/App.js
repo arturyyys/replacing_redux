@@ -39,3 +39,5 @@ class App extends Component {
 }
 
 export default App;
+
+// npm install react-transition-group --save
